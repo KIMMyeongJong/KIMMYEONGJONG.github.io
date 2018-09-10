@@ -19,15 +19,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:https://www.facebook.com/profile.php?id=100025037718847
-  flickr:-
+  facebook:
+  flickr:
   github: kimmyeongjong
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: -
-  stackoverflow: -
+  twitter:
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
