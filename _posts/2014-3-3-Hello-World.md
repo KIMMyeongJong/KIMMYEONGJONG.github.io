@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to mj's world
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+初めまして！私キムミョンジョンは日本に就職ためプログラミングと日本語勉強を共にしております。
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
