@@ -11,20 +11,15 @@ Start 2018年9月11日‼
 
 ---------------------------
 <div>
-<img>
+<img width="200px" src="">
 </div>
 ---------------------------
 
 Welcome to mj's coding world!!
 
-
 NAME: **KIM MYEONG JONG**
-====
 AGE:**26(ko) 1993/12/27**
-====
 HOMETOWN:**KOREA [DEAGU]**
-====
 DREAME:**A programmer who knows MY NAME even for those who are not interested in programming.**
-====
 INTERESTING SKILLS:**BIG DATA[Distributed Processing System]**
 ====
